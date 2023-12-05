@@ -11,4 +11,9 @@ public class TiposeVariaveis {
   short numeroCurto = 1;
   int numeroNormal = numeroCurto;
   short numeroCUrto2 = (short) numeroNormal;
+    
+  // constantes
+  final String NOME = "Joao";
+
+
 }
